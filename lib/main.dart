@@ -26,7 +26,7 @@ class Ingresos extends StatelessWidget {
         backgroundColor: const Color.fromARGB(255, 14, 177, 136), // Fondo negro
         centerTitle: true,
         title: const Text(
-          'Barbas locas peluca Boeta Garcia Moises',
+          'Barbas locas peluca Boeta Garcia Moises 6J',
           style: TextStyle(color: Color.fromARGB(255, 255, 255, 255)),
         ),
         leading: IconButton(
@@ -61,25 +61,25 @@ class Ingresos extends StatelessWidget {
           children: [
             // Tarjeta 1
             _crearTarjeta(
-              titulo: "Diseño Creativo",
-              subtitulo: "Tendencias 2025",
-              urlImagen: "https://i.pravatar.cc/150?img=1",
+              titulo: "LOLA PELUSA",
+              subtitulo: "MOHAK",
+              urlImagen: "https://raw.githubusercontent.com/MOSESBOETAGARCIA/act7_boetagarcia/main/vintage-barbershop-logo-design-template-free-vector.jpg",
             ),
             const SizedBox(height: 16), // Espacio entre tarjetas
 
             // Tarjeta 2
             _crearTarjeta(
-              titulo: "Desarrollo Flutter",
-              subtitulo: "Widgets básicos",
-              urlImagen: "https://i.pravatar.cc/150?img=12",
+              titulo: "SANTAPA",
+              subtitulo: "LOWFADES SUPER EXCELENTES",
+              urlImagen: "https://raw.githubusercontent.com/MOSESBOETAGARCIA/act7_boetagarcia/main/vintage-barbershop-logo-design-template-free-vector.jpg",
             ),
             const SizedBox(height: 16),
 
             // Tarjeta 3
             _crearTarjeta(
-              titulo: "Fotografía Urbana",
-              subtitulo: "Capturando la ciudad",
-              urlImagen: "https://i.pravatar.cc/150?img=33",
+              titulo: "FLORECETA",
+              subtitulo: "TAPERS BUENOS",
+              urlImagen: "https://raw.githubusercontent.com/MOSESBOETAGARCIA/act7_boetagarcia/main/barbershop-logo-barber-pole-razor-600nw-2535695609.webp",
             ),
           ],
         ),
